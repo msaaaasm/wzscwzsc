@@ -8,7 +8,7 @@
 
 [Proton](https://mail.proton.me/)
 
-[z-Library](https://go-to-library.sk/#useful_link_tab)
+[Z-Library](https://go-to-library.sk/#useful_link_tab)
 
 [Infini云](https://jike.teracloud.jp/browser/)
 
@@ -18,6 +18,6 @@
 
 [GitHub](https://github.com/)
 
-[Chatgpt](https://chat.openai.com/)
+[ChatGPT](https://chat.openai.com/)
 
 [Grok](https://grok.com/)
