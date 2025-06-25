@@ -1,5 +1,7 @@
 ## 网址收藏
 
+[iFixit](https://zh.ifixit.com/)
+
 [Java面试指南](https://javaguide.cn/)
 
 [精灵学院](https://final.riolu.icu/?code=Babz9GDg)
