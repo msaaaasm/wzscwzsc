@@ -14,8 +14,6 @@
 
 [Infini云](https://jike.teracloud.jp/browser/)
 
-[小米云](https://i.mi.com/)
-
 [下次一定](https://www.iiice.cn/#/)
 
 [GitHub](https://github.com/)
